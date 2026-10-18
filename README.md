@@ -1,4 +1,4 @@
-# EDA_E-CommerceIndonesia-
+# EDA_E-CommerceIndonesia
 
 This project applies Exploratory Data Analysis (EDA) to an Indonesia e-commerce dataset.  
 The workflow in this project includes:
